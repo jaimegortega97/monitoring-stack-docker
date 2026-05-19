@@ -9,7 +9,7 @@ Este proyecto contiene la configuración necesaria para desplegar un entorno de 
 * Node Exporter
 
 ## Captura del Dashboard
-![Dashboard de Grafana](dashboard-grafana.png)
+![Dashboard de Grafana]()
 
 ## Cómo desplegar este laboratorio
 1. Clona este repositorio o descarga el archivo `docker-compose.yml`.
